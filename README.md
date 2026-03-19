@@ -22,5 +22,4 @@ How to Run:
 3. Run: streamlit run app.py
 4. Open browser and ask questions
 
-Author:
-Latha Shree
+
